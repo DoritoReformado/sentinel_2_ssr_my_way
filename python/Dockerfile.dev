@@ -1,0 +1,90 @@
+# ==========================
+# Base CUDA oficial
+# ==========================
+
+FROM nvidia/cuda:12.4.1-cudnn-runtime-ubuntu22.04
+
+ENV DEBIAN_FRONTEND=noninteractive
+
+# ==========================
+# Instalar Python 3.12
+# ==========================
+
+RUN apt-get update && apt-get install -y \
+    software-properties-common \
+    curl \
+    git \
+    wget \
+    cmake \
+    libgdal-dev \
+    build-essential \
+    ca-certificates \
+    pkg-config \
+    libssl-dev \
+    libffi-dev \
+    && add-apt-repository ppa:deadsnakes/ppa \
+    && apt-get update \
+    && apt-get install -y \
+    python3.12 \
+    python3.12-dev \
+    python3.12-venv \
+    && rm -rf /var/lib/apt/lists/*
+
+RUN wget https://download.osgeo.org/gdal/3.12.4/gdal-3.12.4.tar.gz && \
+    tar -xzf gdal-3.12.4.tar.gz && \
+    cd gdal-3.12.4 && \
+    mkdir build && \
+    cd build && \
+    cmake .. && \
+    make && \
+    make install && \
+    ldconfig
+
+# python por defecto
+RUN update-alternatives --install /usr/bin/python python /usr/bin/python3.12 1
+
+# pip
+RUN curl -sS https://bootstrap.pypa.io/get-pip.py | python
+
+# ==========================
+# Instalar uv
+# ==========================
+
+RUN curl -LsSf https://astral.sh/uv/install.sh | sh
+
+ENV PATH="/root/.local/bin:$PATH"
+
+# ==========================
+# Directorio de trabajo
+# ==========================
+
+WORKDIR /app
+
+# ==========================
+# Copiar dependencias
+# ==========================
+
+COPY pyproject.toml* requirements.txt* /app/
+
+# ==========================
+# Instalar dependencias Python
+# ==========================
+
+RUN if [ -f pyproject.toml ]; then \
+    uv sync; \
+    elif [ -f requirements.txt ]; then \
+    uv pip install -r requirements.txt; \
+    fi
+
+# ==========================
+# Copiar código
+# ==========================
+
+COPY . /app
+
+# ==========================
+# Variables CUDA
+# ==========================
+
+ENV NVIDIA_VISIBLE_DEVICES=all
+ENV NVIDIA_DRIVER_CAPABILITIES=compute,utility

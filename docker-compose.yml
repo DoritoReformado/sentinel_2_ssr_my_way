@@ -1,0 +1,36 @@
+version: "3.9"
+
+services:
+
+  python:
+
+    build:
+      context: ./python
+      dockerfile: Dockerfile.dev
+
+    container_name: python312_cuda_uv
+
+    volumes:
+      - ./python/app/:/app
+      - uv_cache:/root/.cache/uv
+
+    working_dir: /app
+    ports:
+      - "8020:8000"
+    stdin_open: true
+    tty: true
+
+    environment:
+      - PYTHONUNBUFFERED=1
+
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [ gpu ]
+    runtime: nvidia
+    command: tail -f /dev/null
+volumes:
+  uv_cache:
