@@ -1,0 +1,3 @@
+.env
+python/app/data/sentinel_2/*
+python/app/data/composite/*

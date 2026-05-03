@@ -22,6 +22,8 @@ services:
 
     environment:
       - PYTHONUNBUFFERED=1
+      - COPERNICUS_USERNAME=${COPERNICUS_USERNAME}
+      - COPERNICUS_PASSWORD=${COPERNICUS_PASSWORD}
 
     deploy:
       resources:

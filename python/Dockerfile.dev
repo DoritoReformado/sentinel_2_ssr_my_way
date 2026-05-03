@@ -30,16 +30,6 @@ RUN apt-get update && apt-get install -y \
     python3.12-venv \
     && rm -rf /var/lib/apt/lists/*
 
-RUN wget https://download.osgeo.org/gdal/3.12.4/gdal-3.12.4.tar.gz && \
-    tar -xzf gdal-3.12.4.tar.gz && \
-    cd gdal-3.12.4 && \
-    mkdir build && \
-    cd build && \
-    cmake .. && \
-    make && \
-    make install && \
-    ldconfig
-
 # python por defecto
 RUN update-alternatives --install /usr/bin/python python /usr/bin/python3.12 1
 
