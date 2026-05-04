@@ -1,3 +1,6 @@
 .env
 python/app/data/sentinel_2/*
 python/app/data/composite/*
+python/app/data/ndvi/*
+python/app/data/resultados/*
+python/app/data/realesgran/*
