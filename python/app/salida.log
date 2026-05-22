@@ -1,0 +1,288 @@
+nohup: ignoring input
+AOT_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B02_10m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B03_10m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B04_10m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B05_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B06_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B07_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B08_10m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B09_60m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B11_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B12_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+B8A_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+SCL_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+WVP_20m para MGRS-18NUH en 2018-08-10 ya existe, saltando descarga.
+  0%|          | 0/12 [00:00<?, ?it/s]procesando MGRS-18NUH - 2018-03-13 (cloud cover: 12.38%)
+  8%|▊         | 1/12 [00:18<03:20, 18.26s/it]procesando MGRS-18NUH - 2018-08-10 (cloud cover: 21.24%)
+ 17%|█▋        | 2/12 [00:31<02:35, 15.54s/it]procesando MGRS-18NUH - 2018-01-24 (cloud cover: 29.61%)
+ 25%|██▌       | 3/12 [00:46<02:15, 15.09s/it]procesando MGRS-18NUH - 2018-01-04 (cloud cover: 30.86%)
+ 33%|███▎      | 4/12 [01:00<01:58, 14.86s/it]procesando MGRS-18NUH - 2018-01-07 (cloud cover: 32.66%)
+ 42%|████▏     | 5/12 [01:14<01:40, 14.43s/it]procesando MGRS-18NUH - 2018-09-29 (cloud cover: 34.38%)
+ 50%|█████     | 6/12 [01:28<01:26, 14.37s/it]procesando MGRS-18NUH - 2018-09-19 (cloud cover: 35.76%)
+ 58%|█████▊    | 7/12 [01:43<01:12, 14.42s/it]procesando MGRS-18NUH - 2018-08-10 (cloud cover: 36.15%)
+ 67%|██████▋   | 8/12 [01:57<00:57, 14.26s/it]procesando MGRS-18NUH - 2018-10-14 (cloud cover: 36.48%)
+ 75%|███████▌  | 9/12 [02:11<00:42, 14.32s/it]procesando MGRS-18NUH - 2018-07-11 (cloud cover: 38.34%)
+ 83%|████████▎ | 10/12 [02:25<00:28, 14.20s/it]procesando MGRS-18NUH - 2018-12-28 (cloud cover: 39.42%)
+ 92%|█████████▏| 11/12 [02:39<00:14, 14.18s/it]procesando MGRS-18NUH - 2018-04-07 (cloud cover: 39.65%)
+100%|██████████| 12/12 [02:53<00:00, 14.13s/it]100%|██████████| 12/12 [02:53<00:00, 14.49s/it]
+Composite shape: (6, 10980, 10980)
+  0%|          | 0/13 [00:00<?, ?it/s]procesando MGRS-18NUJ - 2018-10-14 (cloud cover: 17.11%)
+  8%|▊         | 1/13 [00:18<03:46, 18.91s/it]procesando MGRS-18NUJ - 2018-08-10 (cloud cover: 20.48%)
+ 15%|█▌        | 2/13 [00:32<02:56, 16.04s/it]procesando MGRS-18NUJ - 2018-08-20 (cloud cover: 20.74%)
+ 23%|██▎       | 3/13 [00:47<02:32, 15.26s/it]procesando MGRS-18NUJ - 2018-12-28 (cloud cover: 21.79%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-12-28/B08_10m.jp2' not recognized as being in a supported file format.
+ 31%|███       | 4/13 [00:50<01:34, 10.45s/it]procesando MGRS-18NUJ - 2018-01-07 (cloud cover: 26.89%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-01-07/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-01-24 (cloud cover: 29.56%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-01-24/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-03-13 (cloud cover: 30.32%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-03-13/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-02-26 (cloud cover: 31.4%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-02-26/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-10-04 (cloud cover: 32.45%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-10-04/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-04-07 (cloud cover: 36.76%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-04-07/B02_10m.jp2' not recognized as being in a supported file format.
+ 77%|███████▋  | 10/13 [00:50<00:07,  2.40s/it]procesando MGRS-18NUJ - 2018-10-01 (cloud cover: 37.38%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-10-01/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-09-19 (cloud cover: 37.8%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-09-19/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2018-06-21 (cloud cover: 39.72%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2018-06-21/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 13/13 [00:50<00:00,  3.89s/it]
+Composite shape: (6, 10980, 10980)
+./data/composite/MGRS-18NUH/MGRS-18NUH_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+./data/composite/MGRS-18NUJ/MGRS-18NUJ_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+/app/./model.py:687: RuntimeWarning: invalid value encountered in cast
+  rgb_8bit = (rgb * 255).astype(np.uint8)
+✅ Procesamiento por bloques terminado
+  0%|          | 0/15 [00:00<?, ?it/s]procesando MGRS-18NUJ - 2019-08-05 (cloud cover: 3.45%)
+  7%|▋         | 1/15 [00:15<03:37, 15.53s/it]procesando MGRS-18NUJ - 2019-07-06 (cloud cover: 4.16%)
+ 13%|█▎        | 2/15 [00:29<03:06, 14.37s/it]procesando MGRS-18NUJ - 2019-01-02 (cloud cover: 4.78%)
+ 20%|██        | 3/15 [00:42<02:47, 13.96s/it]procesando MGRS-18NUJ - 2019-08-30 (cloud cover: 8.51%)
+ 27%|██▋       | 4/15 [00:56<02:32, 13.89s/it]procesando MGRS-18NUJ - 2019-08-25 (cloud cover: 14.94%)
+ 33%|███▎      | 5/15 [01:10<02:18, 13.82s/it]procesando MGRS-18NUJ - 2019-01-22 (cloud cover: 15.01%)
+ 40%|████      | 6/15 [01:23<02:03, 13.70s/it]procesando MGRS-18NUJ - 2019-01-17 (cloud cover: 27.52%)
+ 47%|████▋     | 7/15 [01:36<01:49, 13.63s/it]procesando MGRS-18NUJ - 2019-08-10 (cloud cover: 30.58%)
+ 53%|█████▎    | 8/15 [01:50<01:35, 13.69s/it]procesando MGRS-18NUJ - 2019-06-26 (cloud cover: 31.99%)
+ 60%|██████    | 9/15 [02:04<01:21, 13.60s/it]procesando MGRS-18NUJ - 2019-07-11 (cloud cover: 32.04%)
+ 67%|██████▋   | 10/15 [02:17<01:08, 13.62s/it]procesando MGRS-18NUJ - 2019-08-20 (cloud cover: 33.44%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2019-08-20/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2019-04-12 (cloud cover: 35.4%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2019-04-12/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2019-08-15 (cloud cover: 37.13%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2019-08-15/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2019-08-22 (cloud cover: 37.67%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2019-08-22/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2019-04-27 (cloud cover: 38.85%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2019-04-27/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 15/15 [02:17<00:00,  9.20s/it]
+Composite shape: (6, 10980, 10980)
+  0%|          | 0/9 [00:00<?, ?it/s]procesando MGRS-18NUH - 2019-08-30 (cloud cover: 7.92%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-08-30/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-07-06 (cloud cover: 18.23%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-07-06/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-01-02 (cloud cover: 25.54%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-01-02/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-08-25 (cloud cover: 28.66%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-08-25/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-01-22 (cloud cover: 32.0%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-01-22/B02_10m.jp2' not recognized as being in a supported file format.
+ 56%|█████▌    | 5/9 [00:00<00:00, 47.52it/s]procesando MGRS-18NUH - 2019-06-26 (cloud cover: 33.62%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-06-26/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-12-10 (cloud cover: 35.29%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-12-10/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-08-17 (cloud cover: 35.89%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-08-17/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2019-08-05 (cloud cover: 37.95%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2019-08-05/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 9/9 [00:00<00:00, 47.40it/s]
+./data/composite/MGRS-18NUJ/MGRS-18NUJ_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+/app/./model.py:687: RuntimeWarning: invalid value encountered in cast
+  rgb_8bit = (rgb * 255).astype(np.uint8)
+✅ Procesamiento por bloques terminado
+AOT_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B02_10m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B03_10m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B04_10m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B05_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B06_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B07_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B08_10m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B09_60m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B11_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B12_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+B8A_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+SCL_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+WVP_20m para MGRS-18NUH en 2020-11-04 ya existe, saltando descarga.
+  0%|          | 0/12 [00:00<?, ?it/s]procesando MGRS-18NUH - 2020-02-06 (cloud cover: 0.68%)
+  8%|▊         | 1/12 [00:14<02:42, 14.80s/it]procesando MGRS-18NUH - 2020-02-11 (cloud cover: 1.84%)
+ 17%|█▋        | 2/12 [00:27<02:18, 13.83s/it]procesando MGRS-18NUH - 2020-03-22 (cloud cover: 4.79%)
+ 25%|██▌       | 3/12 [00:41<02:02, 13.58s/it]procesando MGRS-18NUH - 2020-04-26 (cloud cover: 24.76%)
+ 33%|███▎      | 4/12 [00:54<01:47, 13.47s/it]procesando MGRS-18NUH - 2020-11-04 (cloud cover: 24.94%)
+ 42%|████▏     | 5/12 [01:07<01:32, 13.25s/it]procesando MGRS-18NUH - 2020-11-09 (cloud cover: 25.31%)
+ 50%|█████     | 6/12 [01:20<01:19, 13.31s/it]procesando MGRS-18NUH - 2020-11-04 (cloud cover: 29.07%)
+ 58%|█████▊    | 7/12 [01:33<01:05, 13.17s/it]procesando MGRS-18NUH - 2020-09-03 (cloud cover: 29.49%)
+ 67%|██████▋   | 8/12 [01:47<00:53, 13.34s/it]procesando MGRS-18NUH - 2020-01-14 (cloud cover: 33.49%)
+ 75%|███████▌  | 9/12 [02:01<00:40, 13.46s/it]procesando MGRS-18NUH - 2020-01-04 (cloud cover: 33.8%)
+ 83%|████████▎ | 10/12 [02:14<00:27, 13.52s/it]procesando MGRS-18NUH - 2020-01-07 (cloud cover: 35.86%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2020-01-07/SCL_20m.jp2' not recognized as being in a supported file format.
+ 92%|█████████▏| 11/12 [02:21<00:11, 11.47s/it]procesando MGRS-18NUH - 2020-02-16 (cloud cover: 38.36%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2020-02-16/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 12/12 [02:21<00:00, 11.80s/it]
+Composite shape: (6, 10980, 10980)
+  0%|          | 0/16 [00:00<?, ?it/s]procesando MGRS-18NUJ - 2020-03-22 (cloud cover: 5.45%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-03-22/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-01-17 (cloud cover: 9.21%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-01-17/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-02-06 (cloud cover: 9.9%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-02-06/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-02-11 (cloud cover: 14.82%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-02-11/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-09-03 (cloud cover: 15.96%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-09-03/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-08-01 (cloud cover: 18.4%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-08-01/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-08-09 (cloud cover: 19.07%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-08-09/B02_10m.jp2' not recognized as being in a supported file format.
+ 44%|████▍     | 7/16 [00:00<00:00, 62.30it/s]procesando MGRS-18NUJ - 2020-01-04 (cloud cover: 22.39%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-01-04/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-09-28 (cloud cover: 22.58%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-09-28/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-07-15 (cloud cover: 29.71%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-07-15/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-02-16 (cloud cover: 31.47%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-02-16/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-01-07 (cloud cover: 35.24%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-01-07/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-02-13 (cloud cover: 37.48%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-02-13/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-04-26 (cloud cover: 37.86%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-04-26/B02_10m.jp2' not recognized as being in a supported file format.
+ 88%|████████▊ | 14/16 [00:00<00:00, 61.99it/s]procesando MGRS-18NUJ - 2020-11-04 (cloud cover: 38.12%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-11-04/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2020-11-07 (cloud cover: 39.63%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2020-11-07/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 16/16 [00:00<00:00, 62.46it/s]
+./data/composite/MGRS-18NUH/MGRS-18NUH_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+/app/./model.py:687: RuntimeWarning: invalid value encountered in cast
+  rgb_8bit = (rgb * 255).astype(np.uint8)
+✅ Procesamiento por bloques terminado
+  0%|          | 0/7 [00:00<?, ?it/s]procesando MGRS-18NUJ - 2021-01-31 (cloud cover: 17.73%)
+ 14%|█▍        | 1/7 [00:15<01:33, 15.56s/it]procesando MGRS-18NUJ - 2021-07-20 (cloud cover: 20.18%)
+ 29%|██▊       | 2/7 [00:29<01:12, 14.42s/it]procesando MGRS-18NUJ - 2021-10-13 (cloud cover: 32.12%)
+ 43%|████▎     | 3/7 [00:42<00:55, 13.94s/it]procesando MGRS-18NUJ - 2021-10-03 (cloud cover: 32.26%)
+ 57%|█████▋    | 4/7 [00:56<00:41, 13.78s/it]procesando MGRS-18NUJ - 2021-09-13 (cloud cover: 35.24%)
+ 71%|███████▏  | 5/7 [01:09<00:27, 13.53s/it]procesando MGRS-18NUJ - 2021-09-03 (cloud cover: 35.64%)
+ 86%|████████▌ | 6/7 [01:22<00:13, 13.45s/it]procesando MGRS-18NUJ - 2021-12-02 (cloud cover: 37.52%)
+100%|██████████| 7/7 [01:35<00:00, 13.36s/it]100%|██████████| 7/7 [01:35<00:00, 13.67s/it]
+Composite shape: (6, 10980, 10980)
+  0%|          | 0/4 [00:00<?, ?it/s]procesando MGRS-18NUH - 2021-10-13 (cloud cover: 25.28%)
+ 25%|██▌       | 1/4 [00:15<00:46, 15.35s/it]procesando MGRS-18NUH - 2021-01-31 (cloud cover: 28.93%)
+ 50%|█████     | 2/4 [00:28<00:27, 13.82s/it]procesando MGRS-18NUH - 2021-09-18 (cloud cover: 31.53%)
+ 75%|███████▌  | 3/4 [00:41<00:13, 13.62s/it]procesando MGRS-18NUH - 2021-08-04 (cloud cover: 39.37%)
+100%|██████████| 4/4 [00:54<00:00, 13.31s/it]100%|██████████| 4/4 [00:55<00:00, 13.75s/it]
+Composite shape: (6, 10980, 10980)
+./data/composite/MGRS-18NUH/MGRS-18NUH_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+./data/composite/MGRS-18NUJ/MGRS-18NUJ_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+/app/./model.py:687: RuntimeWarning: invalid value encountered in cast
+  rgb_8bit = (rgb * 255).astype(np.uint8)
+✅ Procesamiento por bloques terminado
+  0%|          | 0/12 [00:00<?, ?it/s]procesando MGRS-18NUH - 2022-09-08 (cloud cover: 4.733523%)
+  8%|▊         | 1/12 [00:16<02:59, 16.29s/it]procesando MGRS-18NUH - 2022-01-08 (cloud cover: 13.869365%)
+ 17%|█▋        | 2/12 [00:30<02:28, 14.86s/it]procesando MGRS-18NUH - 2022-09-25 (cloud cover: 19.848619%)
+ 25%|██▌       | 3/12 [00:44<02:09, 14.42s/it]procesando MGRS-18NUH - 2022-09-23 (cloud cover: 25.800002%)
+ 33%|███▎      | 4/12 [00:57<01:51, 13.97s/it]procesando MGRS-18NUH - 2022-12-27 (cloud cover: 28.622827%)
+ 42%|████▏     | 5/12 [01:10<01:36, 13.82s/it]procesando MGRS-18NUH - 2022-10-03 (cloud cover: 31.021807%)
+ 50%|█████     | 6/12 [01:24<01:21, 13.62s/it]procesando MGRS-18NUH - 2022-07-30 (cloud cover: 31.342652%)
+ 58%|█████▊    | 7/12 [01:37<01:08, 13.68s/it]procesando MGRS-18NUH - 2022-07-07 (cloud cover: 33.218232%)
+ 67%|██████▋   | 8/12 [01:51<00:54, 13.64s/it]procesando MGRS-18NUH - 2022-05-03 (cloud cover: 36.037043%)
+ 75%|███████▌  | 9/12 [02:05<00:40, 13.63s/it]procesando MGRS-18NUH - 2022-08-19 (cloud cover: 37.51%)
+ 83%|████████▎ | 10/12 [02:18<00:26, 13.49s/it]procesando MGRS-18NUH - 2022-05-23 (cloud cover: 37.742361%)
+ 92%|█████████▏| 11/12 [02:31<00:13, 13.45s/it]procesando MGRS-18NUH - 2022-12-29 (cloud cover: 37.948158%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2022-12-29/B03_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 12/12 [02:32<00:00,  9.66s/it]100%|██████████| 12/12 [02:32<00:00, 12.72s/it]
+Composite shape: (6, 10980, 10980)
+  0%|          | 0/9 [00:00<?, ?it/s]procesando MGRS-18NUJ - 2022-08-24 (cloud cover: 12.923822%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-08-24/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-09-23 (cloud cover: 16.549608%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-09-23/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-09-08 (cloud cover: 21.840778%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-09-08/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-10-03 (cloud cover: 23.208515%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-10-03/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-07-30 (cloud cover: 31.346101000000004%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-07-30/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-01-16 (cloud cover: 33.584291%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-01-16/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-01-08 (cloud cover: 33.670804%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-01-08/B02_10m.jp2' not recognized as being in a supported file format.
+ 78%|███████▊  | 7/9 [00:00<00:00, 69.29it/s]procesando MGRS-18NUJ - 2022-12-29 (cloud cover: 37.517455%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-12-29/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUJ - 2022-06-05 (cloud cover: 38.365933%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2022-06-05/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 9/9 [00:00<00:00, 68.06it/s]
+./data/composite/MGRS-18NUH/MGRS-18NUH_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+/app/./model.py:687: RuntimeWarning: invalid value encountered in cast
+  rgb_8bit = (rgb * 255).astype(np.uint8)
+✅ Procesamiento por bloques terminado
+  0%|          | 0/12 [00:00<?, ?it/s]procesando MGRS-18NUJ - 2023-08-26 (cloud cover: 2.73%)
+  8%|▊         | 1/12 [00:15<02:51, 15.62s/it]procesando MGRS-18NUJ - 2023-07-20 (cloud cover: 7.27%)
+ 17%|█▋        | 2/12 [00:28<02:22, 14.28s/it]procesando MGRS-18NUJ - 2023-06-20 (cloud cover: 11.48%)
+ 25%|██▌       | 3/12 [00:42<02:06, 14.09s/it]procesando MGRS-18NUJ - 2023-08-29 (cloud cover: 13.39%)
+ 33%|███▎      | 4/12 [00:56<01:50, 13.85s/it]procesando MGRS-18NUJ - 2023-09-13 (cloud cover: 16.35%)
+ 42%|████▏     | 5/12 [01:09<01:35, 13.66s/it]procesando MGRS-18NUJ - 2023-11-27 (cloud cover: 18.54%)
+ 50%|█████     | 6/12 [01:22<01:21, 13.55s/it]procesando MGRS-18NUJ - 2023-02-05 (cloud cover: 20.07%)
+ 58%|█████▊    | 7/12 [01:36<01:07, 13.54s/it]procesando MGRS-18NUJ - 2023-09-23 (cloud cover: 29.46%)
+ 67%|██████▋   | 8/12 [01:50<00:54, 13.56s/it]procesando MGRS-18NUJ - 2023-05-18 (cloud cover: 30.91%)
+ 75%|███████▌  | 9/12 [02:03<00:40, 13.61s/it]procesando MGRS-18NUJ - 2023-08-04 (cloud cover: 32.46%)
+ 83%|████████▎ | 10/12 [02:17<00:27, 13.52s/it]procesando MGRS-18NUJ - 2023-10-23 (cloud cover: 36.14%)
+ 92%|█████████▏| 11/12 [02:30<00:13, 13.57s/it]procesando MGRS-18NUJ - 2023-10-13 (cloud cover: 36.88%)
+Error loading patch: './data/sentinel_2/MGRS-18NUJ/2023-10-13/SCL_20m.jp2' not recognized as being in a supported file format.
+100%|██████████| 12/12 [02:38<00:00, 11.69s/it]100%|██████████| 12/12 [02:38<00:00, 13.18s/it]
+Composite shape: (6, 10980, 10980)
+  0%|          | 0/10 [00:00<?, ?it/s]procesando MGRS-18NUH - 2023-08-26 (cloud cover: 6.77%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-08-26/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-10-23 (cloud cover: 15.83%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-10-23/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-11-27 (cloud cover: 19.32%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-11-27/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-06-20 (cloud cover: 29.82%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-06-20/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-09-23 (cloud cover: 32.13%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-09-23/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-05-18 (cloud cover: 32.83%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-05-18/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-01-28 (cloud cover: 33.55%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-01-28/B02_10m.jp2' not recognized as being in a supported file format.
+ 70%|███████   | 7/10 [00:00<00:00, 69.65it/s]procesando MGRS-18NUH - 2023-12-22 (cloud cover: 35.52%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-12-22/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-12-02 (cloud cover: 37.42%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-12-02/B02_10m.jp2' not recognized as being in a supported file format.
+procesando MGRS-18NUH - 2023-02-05 (cloud cover: 38.93%)
+Error loading patch: './data/sentinel_2/MGRS-18NUH/2023-02-05/B02_10m.jp2' not recognized as being in a supported file format.
+100%|██████████| 10/10 [00:00<00:00, 62.99it/s]
+./data/composite/MGRS-18NUJ/MGRS-18NUJ_composite.tif 6 (10980, 10980) ('float32', 'float32', 'float32', 'float32', 'float32', 'float32')
+/app/./model.py:687: RuntimeWarning: invalid value encountered in cast
+  rgb_8bit = (rgb * 255).astype(np.uint8)
+✅ Procesamiento por bloques terminado
+Traceback (most recent call last):
+  File "/app/./model.py", line 145, in <module>
+    asset_response = requests.get(asset_url, headers=headers, stream=True)
+                     ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/.venv/lib/python3.12/site-packages/requests/api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/.venv/lib/python3.12/site-packages/requests/api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/.venv/lib/python3.12/site-packages/requests/sessions.py", line 592, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/.venv/lib/python3.12/site-packages/requests/sessions.py", line 700, in send
+    adapter = self.get_adapter(url=request.url)
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/app/.venv/lib/python3.12/site-packages/requests/sessions.py", line 795, in get_adapter
+    raise InvalidSchema(f"No connection adapters were found for {url!r}")
+requests.exceptions.InvalidSchema: No connection adapters were found for 's3://eodata/Sentinel-2/MSI/L2A/2024/09/14/S2A_MSIL2A_20240914T152651_N0511_R025_T18NUH_20240914T222508.SAFE/GRANULE/L2A_T18NUH_A048213_20240914T152745/IMG_DATA/R20m/T18NUH_20240914T152651_AOT_20m.jp2'

@@ -4,3 +4,6 @@ python/app/data/composite/*
 python/app/data/ndvi/*
 python/app/data/resultados/*
 python/app/data/realesgran/*
+python/app/data/resultados_recorte.rar
+python/app/data/resultados_recorte/*
+python/app/data/hybas_sa_lev01-12_v1c/*
